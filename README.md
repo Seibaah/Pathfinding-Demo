@@ -4,7 +4,7 @@
 
 •	A* Algorithm on a reduced visibility graph 
 
-•	Scalable agen capacity
+•	Scalable agent capacity
 
 A reduced visibility graph is built with colinear and bitangent lines between object and alcove vertices in the level. An adjacency list is built from this graph and a copy is passed to each agent. 
 
